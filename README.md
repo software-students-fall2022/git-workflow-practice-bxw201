@@ -12,3 +12,7 @@ This particular article helped me reframe my focus during my time at college. De
 And so the takeaway that stuck with me is that I should be spending more time fostering my interest in what I study and less time grinding away at homework assignments at 2 AM.
 
 Anyway, if anybody wants to work on a project with me this semester, [hit me up](mailto:bxw201@nyu.edu)! :smile:
+
+## Hi, I'm Brandon Chen
+
+I agree with basically everything that was said in the article. I have heard from many others that your grades and school becomes trivial compared to other parts of your resume. Your interest and what you do with it goes further to prove your capabilities than a number. Grades in the long term don't matter but I liked the emphasis that not caring about grades isn't the same as getting bad grades. Good grades does help in getting your first experience/internship but your interest and what you do with your interest contributes the same if not more. Getting that 4.0 GPA looks nice but I would rather spend my efforts elsewhere, though I lost my chances at a 4.0 GPA years ago. Perhaps I don't need to fret over the test(s) I bombed in the past if they had no visible effect on my life right now. Finally, hit me up/add me on discord too cause I need friends :disappointed:.
