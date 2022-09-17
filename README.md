@@ -12,3 +12,7 @@ This particular article helped me reframe my focus during my time at college. De
 And so the takeaway that stuck with me is that I should be spending more time fostering my interest in what I study and less time grinding away at homework assignments at 2 AM.
 
 Anyway, if anybody wants to work on a project with me this semester, [hit me up](mailto:bxw201@nyu.edu)! :smile:
+
+## Comment by JonasonWu (jw5911)
+
+The article is stating that grades do not really matter as long as you are passing the course and that you should focus on CS as an interest. However, grades may be an indicator of your interest in CS. If you are barely passing the CS courses, I believe that it will be harder to feel interested in CS and you will eventually end up learning CS just to get a passing grade. If you are getting good grades for CS, then you will likely be more enthusiastic about learning CS material to maintain the good grade. Thus, grades and interest may act as a sort of positive feedback loop or a negative feedback loop.
