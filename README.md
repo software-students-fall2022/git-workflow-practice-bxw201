@@ -12,3 +12,7 @@ This particular article helped me reframe my focus during my time at college. De
 And so the takeaway that stuck with me is that I should be spending more time fostering my interest in what I study and less time grinding away at homework assignments at 2 AM.
 
 Anyway, if anybody wants to work on a project with me this semester, [hit me up](mailto:bxw201@nyu.edu)! :smile:
+
+## Charlie Xiang's Add-On
+
+This concept of "oh maybe I'll get a master's" is an attitude that a lot of people around me have, and almost always it has nothing to do with what they want to do, but rather is something they feel like they _have_ to do in order to find a job that will pay a livable wage. It's certainly important to take into account that CS jobs are perfectly sustainable with only a bachelor's, but it is something that I think may be quite rare in other fields. The point on GPA, however, I fully stand behind. I think as a new college graduate, jobs may be a little more focused on your GPA, as there is little else to judge you by. However after the obstacle of getting that first job, I think employers will disregard that GPA and focus instead on your past experiences. All the good grades in the world won't mean anything if you don't know what you're doing, after all.
